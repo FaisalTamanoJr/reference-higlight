@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-reference-highlight",
+	"name": "Reference Highlight",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Reference your highlights from a markdown file",
+	"author": "Faisal Tamano Jr.",
+	"authorUrl": "https://github.com/FaisalTamanoJr",
+	"isDesktopOnly": false
+}
